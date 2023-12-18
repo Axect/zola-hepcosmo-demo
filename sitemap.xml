@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://example.com/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/</loc>
     </url>
     <url>
-        <loc>https://example.com/240109-gw/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/240109-gw/</loc>
         <lastmod>2024-01-09T10:30:00+09:00</lastmod>
     </url>
     <url>
-        <loc>https://example.com/about/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/about/</loc>
     </url>
     <url>
-        <loc>https://example.com/categories/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/categories/</loc>
     </url>
     <url>
-        <loc>https://example.com/categories/meeting/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/categories/meeting/</loc>
     </url>
     <url>
-        <loc>https://example.com/categories/meeting/page/1/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/categories/meeting/page/1/</loc>
     </url>
     <url>
-        <loc>https://example.com/contact/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/contact/</loc>
     </url>
     <url>
-        <loc>https://example.com/members/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/members/</loc>
     </url>
     <url>
-        <loc>https://example.com/page/1/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/page/1/</loc>
     </url>
     <url>
-        <loc>https://example.com/publications/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/publications/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/</loc>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/tags/</loc>
     </url>
 </urlset>
