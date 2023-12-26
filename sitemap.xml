@@ -15,6 +15,16 @@
         <loc>https://axect.github.io/zola-hepcosmo-demo/about/</loc>
     </url>
     <url>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/archives/</loc>
+    </url>
+    <url>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/archives/231217-test/</loc>
+        <lastmod>2023-12-17T10:30:00+09:00</lastmod>
+    </url>
+    <url>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/archives/page/1/</loc>
+    </url>
+    <url>
         <loc>https://axect.github.io/zola-hepcosmo-demo/categories/</loc>
     </url>
     <url>
@@ -37,5 +47,23 @@
     </url>
     <url>
         <loc>https://axect.github.io/zola-hepcosmo-demo/tags/</loc>
+    </url>
+    <url>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/tags/gut/</loc>
+    </url>
+    <url>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/tags/gut/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/tags/gw/</loc>
+    </url>
+    <url>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/tags/gw/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/tags/ramen/</loc>
+    </url>
+    <url>
+        <loc>https://axect.github.io/zola-hepcosmo-demo/tags/ramen/page/1/</loc>
     </url>
 </urlset>
